@@ -6,7 +6,7 @@
 //  Copyright © 2015 Facebook. All rights reserved.
 //
 
-#import <React/RCTBridgeModule.h>
+#import "RCTBridgeModule.h"
 
 @interface RNMixpanel : NSObject<RCTBridgeModule>
 
