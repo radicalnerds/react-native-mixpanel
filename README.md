@@ -1,5 +1,9 @@
+# Note from Radical Candor
+
+We are currently (3/6/17) pinned to React Native `0.39.2`. We'll update in future but for now we'll rollback.
+
 #Installation
-- Run `npm install react-native-mixpanel --save`
+- Run `npm install https://github.com/radicalnerds/react-native-mixpanel --save`
 - Run `npm install link react-native-mixpanel`
   - (for RN 0.29.1+; otherwise use `rnpm link react-native-mixpanel`)
 
